@@ -1,0 +1,1177 @@
+{
+  "7": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 816,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Suction": {
+        "value": 0.3,
+        "firstOutOfTolerance": "2024-07-29T05:31:13.823Z",
+        "count": 10,
+        "lastOutOfTolerance": "2024-08-20T08:35:04.746Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "70": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 890,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-13T13:08:37.424Z"
+      },
+      "Temps_SCC_in": {
+        "value": 906,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-13T13:08:37.424Z"
+      },
+      "Sideair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T15:01:24.422Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-13T13:08:37.424Z"
+      }
+    },
+    "lastUpdate": "2024-08-13T13:08:37.424Z"
+  },
+  "76": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 820,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 16,
+        "lastOutOfTolerance": "2024-08-14T15:52:40.710Z"
+      },
+      "Suction": {
+        "value": 20,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-14T15:27:18.301Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-08T14:55:25.609Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-08T15:41:26.470Z"
+      },
+      "Temps_SCC_in": {
+        "value": 901,
+        "firstOutOfTolerance": "2024-08-08T15:20:54.913Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-14T16:27:43.992Z"
+      },
+      "Sideair": {
+        "value": 50,
+        "firstOutOfTolerance": "2024-08-13T12:49:46.050Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-14T16:57:37.257Z"
+      }
+    },
+    "lastUpdate": "2024-08-14T16:59:27.356Z"
+  },
+  "97": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 788,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Suction": {
+        "value": 22.4,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 13,
+        "lastOutOfTolerance": "2024-08-20T08:39:05.196Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T14:15:42.720Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 1230,
+        "firstOutOfTolerance": "2024-08-14T14:15:42.720Z",
+        "count": 12,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 35,
+        "firstOutOfTolerance": "2024-08-14T14:28:23.713Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-14T16:33:54.919Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-14T15:03:26.476Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Topair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-20T08:29:04.125Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-20T08:37:25.043Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "101": {
+    "measurements": {
+      "Temps_SCC_in": {
+        "value": 906,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 33,
+        "lastOutOfTolerance": "2024-08-20T09:06:23.338Z"
+      },
+      "Temps_PCC": {
+        "value": 853,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 32,
+        "firstOutOfTolerance": "2024-08-13T12:49:46.050Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T08:16:42.035Z"
+      },
+      "SCCair": {
+        "value": 60,
+        "firstOutOfTolerance": "2024-08-14T15:13:37.302Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-20T09:00:20.735Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T15:24:28.161Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T16:42:26.232Z"
+      },
+      "Temps_Flue": {
+        "value": 433,
+        "firstOutOfTolerance": "2024-08-14T16:47:46.688Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Suction": {
+        "value": 0.3,
+        "firstOutOfTolerance": "2024-08-20T08:17:22.064Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T08:58:39.044Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "102": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 805,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 928,
+        "firstOutOfTolerance": "2024-08-13T12:54:16.814Z",
+        "count": 23,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-08-14T14:17:42.837Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:05:10.513Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-14T15:11:27.010Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T15:13:17.286Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T15:23:07.995Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T16:34:25.068Z"
+      },
+      "Temps_Flue": {
+        "value": 483,
+        "firstOutOfTolerance": "2024-08-14T16:37:25.758Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Suction": {
+        "value": 0.3,
+        "firstOutOfTolerance": "2024-08-20T09:05:00.221Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-20T09:05:51.514Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "151": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 984,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 41,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 45,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 23,
+        "lastOutOfTolerance": "2024-08-20T08:37:25.043Z"
+      },
+      "Temps_SCC_in": {
+        "value": 973,
+        "firstOutOfTolerance": "2024-08-14T14:24:33.402Z",
+        "count": 27,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "SCCair": {
+        "value": 70,
+        "firstOutOfTolerance": "2024-08-14T14:49:05.609Z",
+        "count": 9,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T15:07:06.726Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T15:14:17.467Z"
+      },
+      "Suction": {
+        "value": 26.2,
+        "firstOutOfTolerance": "2024-08-14T16:21:43.236Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T08:37:55.082Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "155": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 681,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 8,
+        "lastOutOfTolerance": "2024-08-20T09:04:15.776Z"
+      },
+      "Suction": {
+        "value": 26.2,
+        "firstOutOfTolerance": "2024-08-20T08:44:26.301Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-20T08:44:46.384Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:04:15.776Z"
+  },
+  "192": {
+    "measurements": {
+      "Suction": {
+        "value": 22.1,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-14T16:17:42.695Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-14T14:15:42.720Z",
+        "count": 8,
+        "lastOutOfTolerance": "2024-08-14T16:45:36.494Z"
+      },
+      "Temps_PCC": {
+        "value": 992,
+        "firstOutOfTolerance": "2024-08-14T14:15:42.720Z",
+        "count": 8,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Oxygene": {
+        "value": 0.4,
+        "firstOutOfTolerance": "2024-08-14T14:15:42.720Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T14:26:23.506Z"
+      },
+      "Sideair": {
+        "value": 32,
+        "firstOutOfTolerance": "2024-08-14T14:20:33.068Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-14T16:53:37.021Z"
+      },
+      "Temps_SCC_in": {
+        "value": 924,
+        "firstOutOfTolerance": "2024-08-14T14:27:33.668Z",
+        "count": 26,
+        "lastOutOfTolerance": "2024-08-14T16:54:07.050Z"
+      }
+    },
+    "lastUpdate": "2024-08-14T16:59:27.356Z"
+  },
+  "218": {
+    "measurements": {
+      "Temps_SCC_in": {
+        "value": 954,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      },
+      "Temps_PCC": {
+        "value": 759,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      },
+      "Topair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      },
+      "Sideair": {
+        "value": 33,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      }
+    },
+    "lastUpdate": "2024-07-26T13:59:26.457Z"
+  },
+  "222": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 761,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-14T15:46:40.302Z"
+      },
+      "Temps_SCC_in": {
+        "value": 908,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 13,
+        "lastOutOfTolerance": "2024-08-14T15:47:10.326Z"
+      },
+      "Topair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T15:16:26.285Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-08T15:31:16.394Z"
+      },
+      "Suction": {
+        "value": 26.2,
+        "firstOutOfTolerance": "2024-08-13T13:05:47.304Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T15:47:10.326Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-14T14:47:05.543Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T14:56:56.170Z"
+      }
+    },
+    "lastUpdate": "2024-08-14T16:59:27.356Z"
+  },
+  "242": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 814,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_Flue": {
+        "value": 417,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      },
+      "Temps_SCC_in": {
+        "value": 903,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T09:03:54.674Z"
+      },
+      "Sideair": {
+        "value": 45,
+        "firstOutOfTolerance": "2024-08-08T14:55:25.609Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Suction": {
+        "value": -0.2,
+        "firstOutOfTolerance": "2024-08-13T12:49:46.050Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-20T08:33:44.686Z"
+      },
+      "SCCair": {
+        "value": 60,
+        "firstOutOfTolerance": "2024-08-20T08:33:04.644Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-20T08:34:14.706Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "243": {
+    "measurements": {
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      },
+      "Temps_PCC": {
+        "value": 1082,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Sideair": {
+        "value": 35,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 9,
+        "lastOutOfTolerance": "2024-08-14T16:57:47.264Z"
+      },
+      "Suction": {
+        "value": 0.4,
+        "firstOutOfTolerance": "2024-08-08T15:06:14.571Z",
+        "count": 15,
+        "lastOutOfTolerance": "2024-08-20T09:06:23.338Z"
+      },
+      "Temps_SCC_in": {
+        "value": 1095,
+        "firstOutOfTolerance": "2024-08-08T15:06:16.139Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T15:12:54.757Z",
+        "count": 12,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Topair": {
+        "value": 79,
+        "firstOutOfTolerance": "2024-08-14T15:09:36.927Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T16:18:22.836Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:06:23.338Z"
+  },
+  "262": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 808,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 50,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T15:19:07.832Z"
+      },
+      "Temps_SCC_in": {
+        "value": 904,
+        "firstOutOfTolerance": "2024-08-08T14:56:55.755Z",
+        "count": 16,
+        "lastOutOfTolerance": "2024-08-14T15:16:37.619Z"
+      },
+      "Suction": {
+        "value": 0.4,
+        "firstOutOfTolerance": "2024-08-08T15:22:34.931Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T08:59:29.724Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-20T08:47:37.165Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T08:59:29.724Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "266": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 914,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "SCCair": {
+        "value": 56,
+        "firstOutOfTolerance": "2024-08-08T14:59:14.381Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-20T08:28:44.088Z"
+      },
+      "Temps_SCC_in": {
+        "value": 902,
+        "firstOutOfTolerance": "2024-08-08T15:06:04.568Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-13T12:57:46.961Z"
+      },
+      "Sideair": {
+        "value": 50,
+        "firstOutOfTolerance": "2024-08-08T15:09:14.664Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Suction": {
+        "value": 0.4,
+        "firstOutOfTolerance": "2024-08-14T15:19:27.849Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-20T08:12:11.686Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "297": {
+    "measurements": {
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 8,
+        "lastOutOfTolerance": "2024-08-20T09:04:15.776Z"
+      },
+      "Temps_PCC": {
+        "value": 816,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 915,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 25,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 9,
+        "lastOutOfTolerance": "2024-08-14T15:47:10.326Z"
+      },
+      "Suction": {
+        "value": 0,
+        "firstOutOfTolerance": "2024-08-14T14:33:34.607Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T14:45:35.441Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T14:44:35.400Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T09:02:30.699Z"
+      },
+      "Temps_Flue": {
+        "value": 422,
+        "firstOutOfTolerance": "2024-08-14T16:05:41.545Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "330": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 603,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T08:48:07.204Z"
+      },
+      "Suction": {
+        "value": 0,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-20T08:26:43.384Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 35,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-13T13:08:37.424Z"
+      },
+      "Temps_SCC_in": {
+        "value": 904,
+        "firstOutOfTolerance": "2024-08-13T12:49:46.050Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-13T12:59:17.015Z"
+      },
+      "Topair": {
+        "value": 53,
+        "firstOutOfTolerance": "2024-08-20T08:44:56.391Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "333": {
+    "measurements": {
+      "Temps_SCC_in": {
+        "value": 901,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 13,
+        "lastOutOfTolerance": "2024-08-14T14:45:35.441Z"
+      },
+      "Temps_PCC": {
+        "value": 661,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Suction": {
+        "value": 0.3,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 10,
+        "lastOutOfTolerance": "2024-08-20T08:33:34.674Z"
+      },
+      "SCCair": {
+        "value": 60,
+        "firstOutOfTolerance": "2024-08-13T12:49:46.050Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-13T13:08:37.424Z"
+      },
+      "Sideair": {
+        "value": 35,
+        "firstOutOfTolerance": "2024-08-13T12:58:26.984Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T15:23:58.083Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T14:15:42.720Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "367": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 691,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 908,
+        "firstOutOfTolerance": "2024-08-08T14:56:15.728Z",
+        "count": 21,
+        "lastOutOfTolerance": "2024-08-20T09:06:44.001Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T14:57:25.781Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-14T14:36:24.867Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-08-08T15:01:26.051Z",
+        "count": 10,
+        "lastOutOfTolerance": "2024-08-20T08:57:48.731Z"
+      },
+      "Suction": {
+        "value": 22.1,
+        "firstOutOfTolerance": "2024-08-08T15:26:24.966Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:00:31.428Z"
+      },
+      "Topair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-20T09:02:40.994Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T09:08:02.789Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "371": {
+    "measurements": {
+      "Temps_SCC_in": {
+        "value": 901,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-08T15:01:06.049Z"
+      },
+      "Temps_PCC": {
+        "value": 680,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-08T15:41:26.470Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-08T15:32:16.400Z"
+      },
+      "Suction": {
+        "value": -0.1,
+        "firstOutOfTolerance": "2024-08-14T16:37:45.776Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T16:41:46.206Z"
+      }
+    },
+    "lastUpdate": "2024-08-14T16:41:46.206Z"
+  },
+  "414": {
+    "measurements": {
+      "Sideair": {
+        "value": 45,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-14T16:49:46.833Z"
+      },
+      "Temps_PCC": {
+        "value": 983,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 903,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T08:28:34.081Z"
+      },
+      "Suction": {
+        "value": 15.3,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-14T15:21:07.911Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T14:55:55.659Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T08:14:21.897Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-20T07:57:05.738Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "415": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 926,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 910,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 12,
+        "lastOutOfTolerance": "2024-08-20T09:06:44.001Z"
+      },
+      "Sideair": {
+        "value": 32,
+        "firstOutOfTolerance": "2024-08-08T15:04:04.557Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-20T08:30:14.341Z"
+      },
+      "Suction": {
+        "value": -1.8,
+        "firstOutOfTolerance": "2024-08-14T15:28:58.381Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-20T08:53:58.281Z"
+      },
+      "SCCair": {
+        "value": 60,
+        "firstOutOfTolerance": "2024-08-14T16:17:32.689Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-20T09:06:44.001Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "419": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 903,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 22,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Temps_Flue": {
+        "value": 407,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-27T12:16:05.515Z"
+      },
+      "Temps_SCC_in": {
+        "value": 901,
+        "firstOutOfTolerance": "2024-08-08T15:32:25.033Z",
+        "count": 8,
+        "lastOutOfTolerance": "2024-08-14T16:47:56.693Z"
+      },
+      "Suction": {
+        "value": 20,
+        "firstOutOfTolerance": "2024-08-13T13:04:37.246Z",
+        "count": 10,
+        "lastOutOfTolerance": "2024-08-20T08:54:18.295Z"
+      },
+      "SCCair": {
+        "value": 54,
+        "firstOutOfTolerance": "2024-08-13T13:05:07.265Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-14T15:46:00.275Z"
+      },
+      "Topair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-20T07:52:31.079Z",
+        "count": 22,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-20T07:52:31.079Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "427": {
+    "measurements": {
+      "Temps_SCC_in": {
+        "value": 906,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_PCC": {
+        "value": 779,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 40,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 14,
+        "lastOutOfTolerance": "2024-08-14T15:50:40.522Z"
+      },
+      "Suction": {
+        "value": 0.3,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Temps_Flue": {
+        "value": 423,
+        "firstOutOfTolerance": "2024-08-14T16:16:42.641Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-20T08:43:06.088Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T09:02:52.083Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "428": {
+    "measurements": {
+      "Temps_SCC_in": {
+        "value": 945,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_PCC": {
+        "value": 828,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 9,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Suction": {
+        "value": 0,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 9,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "433": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 875,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 75,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 901,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-20T08:21:22.400Z"
+      },
+      "Suction": {
+        "value": 0.1,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-27T12:16:05.515Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-14T16:02:31.231Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-13T12:54:46.832Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-14T14:34:34.750Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "50054": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 891,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 45,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Temps_SCC_in": {
+        "value": 901,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-08T15:30:06.386Z"
+      },
+      "Suction": {
+        "value": 0.4,
+        "firstOutOfTolerance": "2024-08-13T12:49:46.050Z",
+        "count": 3,
+        "lastOutOfTolerance": "2024-08-14T14:55:16.044Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T14:15:42.720Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-20T08:18:52.227Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T08:57:48.731Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "50129": {
+    "measurements": {
+      "Temps_PCC": {
+        "value": 762,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Suction": {
+        "value": 25,
+        "firstOutOfTolerance": "2024-07-27T12:16:05.515Z",
+        "count": 8,
+        "lastOutOfTolerance": "2024-08-20T08:25:33.291Z"
+      },
+      "Temps_SCC_in": {
+        "value": 923,
+        "firstOutOfTolerance": "2024-08-13T12:49:46.050Z",
+        "count": 5,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "Sideair": {
+        "value": 45,
+        "firstOutOfTolerance": "2024-08-13T12:57:06.929Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-14T14:46:45.534Z",
+        "count": 7,
+        "lastOutOfTolerance": "2024-08-20T08:48:27.284Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-14T14:46:45.534Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-14T15:47:20.333Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "50146": {
+    "measurements": {
+      "SCCair": {
+        "value": 58,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      },
+      "Temps_PCC": {
+        "value": 971,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      },
+      "Temps_SCC_in": {
+        "value": 918,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-07-26T13:59:26.457Z"
+      }
+    },
+    "lastUpdate": "2024-07-26T13:59:26.457Z"
+  },
+  "50237": {
+    "measurements": {
+      "Sideair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-14T16:59:27.356Z"
+      },
+      "Temps_SCC_in": {
+        "value": 906,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 33,
+        "lastOutOfTolerance": "2024-08-20T09:08:40.139Z"
+      },
+      "Temps_PCC": {
+        "value": 748,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T15:26:26.358Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-14T16:19:53.146Z"
+      },
+      "Suction": {
+        "value": 0.4,
+        "firstOutOfTolerance": "2024-08-14T15:48:20.379Z",
+        "count": 2,
+        "lastOutOfTolerance": "2024-08-20T08:27:53.972Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  },
+  "50238": {
+    "measurements": {
+      "Temps_SCC_in": {
+        "value": 901,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 20,
+        "lastOutOfTolerance": "2024-08-20T09:01:13.276Z"
+      },
+      "Temps_PCC": {
+        "value": 794,
+        "firstOutOfTolerance": "2024-07-26T13:59:26.457Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T09:08:50.511Z"
+      },
+      "SCCair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 8,
+        "lastOutOfTolerance": "2024-08-20T08:10:00.816Z"
+      },
+      "Mode": {
+        "value": 3,
+        "firstOutOfTolerance": "2024-08-08T14:54:55.548Z",
+        "count": 1,
+        "lastOutOfTolerance": "2024-08-08T15:41:26.470Z"
+      },
+      "Sideair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-08T15:01:24.422Z",
+        "count": 11,
+        "lastOutOfTolerance": "2024-08-20T08:50:58.057Z"
+      },
+      "Suction": {
+        "value": -0.3,
+        "firstOutOfTolerance": "2024-08-14T14:33:54.696Z",
+        "count": 6,
+        "lastOutOfTolerance": "2024-08-20T08:52:58.212Z"
+      },
+      "Topair": {
+        "value": 55,
+        "firstOutOfTolerance": "2024-08-20T08:09:09.459Z",
+        "count": 4,
+        "lastOutOfTolerance": "2024-08-20T09:06:01.965Z"
+      }
+    },
+    "lastUpdate": "2024-08-20T09:08:50.511Z"
+  }
+}

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>InfluxDB Real-time Data</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    #data-list {
+      width: 90%;
+      max-width: 800px;
+      max-height: 90%;
+      background-color: #ffffff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    h2 {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      margin: 0;
+      padding: 10px 0;
+    }
+    #measurements {
+      flex: 1;
+      overflow-y: auto;
+    }
+    .measurement {
+      border-bottom: 1px solid #ddd;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+    }
+    .measurement:last-child {
+      border-bottom: none;
+    }
+    .measurement h4 {
+      margin: 0;
+      font-size: 16px;
+      color: #333;
+    }
+    .measurement p {
+      margin: 5px 0 0;
+      font-size: 14px;
+      color: #666;
+    }
+    .measurement span {
+      font-weight: bold;
+      color: #ff5c5c;
+    }
+  </style>
+</head>
+<body>
+  <div id="data-list">
+    <h2>Real-time Data</h2>
+    <div id="measurements"></div>
+  </div>
+
+  <script>
+    const ws = new WebSocket('ws://localhost:8080');
+    const measurementsContainer = document.getElementById('measurements');
+    const monitoredEquipments = {};
+
+    ws.onmessage = (event) => {
+      const measurements = JSON.parse(event.data);
+
+      measurements.forEach(measurement => {
+        const { E_ID, measurement: measure, value, time, firstOutOfTolerance, count } = measurement;
+
+        if (!monitoredEquipments[E_ID]) {
+          monitoredEquipments[E_ID] = {};
+        }
+
+        monitoredEquipments[E_ID][measure] = { value, time, firstOutOfTolerance, count };
+      });
+
+      updateDisplay();
+    };
+
+    ws.onclose = () => {
+      console.log('WebSocket connection closed');
+    };
+
+    ws.onerror = (error) => {
+      console.error('WebSocket error:', error);
+    };
+
+    const updateDisplay = () => {
+      measurementsContainer.innerHTML = '';
+
+      Object.keys(monitoredEquipments).forEach(E_ID => {
+        const measurementGroup = monitoredEquipments[E_ID];
+        const measurementDiv = document.createElement('div');
+        measurementDiv.className = 'measurement';
+        measurementDiv.innerHTML = `
+          <div>
+            <h4>E_ID: ${E_ID}</h4>
+            ${Object.keys(measurementGroup).map(measure => {
+              const info = measurementGroup[measure];
+              const elapsedTime = getElapsedTime(info.firstOutOfTolerance, info.time);
+              return `
+                <p><span>${measure}</span>: ${info.value} (${info.time})</p>
+                <p>Temps écoulé: ${elapsedTime}</p>
+                <p>Nombre de fois hors tolérance: ${info.count}</p>
+              `;
+            }).join('')}
+          </div>
+        `;
+        measurementsContainer.appendChild(measurementDiv);
+      });
+    };
+
+    const getElapsedTime = (startTime, endTime) => {
+      const start = new Date(startTime);
+      const end = new Date(endTime);
+      const elapsed = end - start;
+      const minutes = Math.floor(elapsed / 60000);
+      const seconds = Math.floor((elapsed % 60000) / 1000);
+      return `${minutes} min ${seconds} sec`;
+    };
+  </script>
+</body>
+</html>

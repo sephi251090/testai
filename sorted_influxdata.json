@@ -1,0 +1,180 @@
+{
+  "7": [
+    {
+      "measurement": "Sideair",
+      "field": "value",
+      "value": 45,
+      "time": "2024-08-08T14:53:56Z"
+    },
+    {
+      "measurement": "Sideair",
+      "field": "value",
+      "value": 45,
+      "time": "2024-08-08T14:53:35Z"
+    },
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 912,
+      "time": "2024-08-08T14:53:56Z"
+    },
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 909,
+      "time": "2024-08-08T14:53:35Z"
+    }
+  ],
+  "70": [
+    {
+      "measurement": "Temps_SCC_in",
+      "field": "value",
+      "value": 901,
+      "time": "2024-08-08T14:53:48Z"
+    },
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 912,
+      "time": "2024-08-08T14:53:48Z"
+    }
+  ],
+  "97": [
+    {
+      "measurement": "Oxygene",
+      "field": "value",
+      "value": 20.7,
+      "time": "2024-08-08T14:53:34Z"
+    }
+  ],
+  "222": [
+    {
+      "measurement": "Sideair",
+      "field": "value",
+      "value": 45,
+      "time": "2024-08-08T14:53:34Z"
+    },
+    {
+      "measurement": "Temps_SCC_in",
+      "field": "value",
+      "value": 914,
+      "time": "2024-08-08T14:53:34Z"
+    },
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 1014,
+      "time": "2024-08-08T14:53:34Z"
+    }
+  ],
+  "266": [
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 801,
+      "time": "2024-08-08T14:53:36Z"
+    }
+  ],
+  "297": [
+    {
+      "measurement": "Temps_SCC_in",
+      "field": "value",
+      "value": 939,
+      "time": "2024-08-08T14:53:48Z"
+    },
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 822,
+      "time": "2024-08-08T14:53:48Z"
+    }
+  ],
+  "330": [
+    {
+      "measurement": "Oxygene",
+      "field": "value",
+      "value": 21,
+      "time": "2024-08-08T14:53:39Z"
+    },
+    {
+      "measurement": "Mode",
+      "field": "value",
+      "value": 3,
+      "time": "2024-08-08T14:53:39Z"
+    },
+    {
+      "measurement": "Sideair",
+      "field": "value",
+      "value": 50,
+      "time": "2024-08-08T14:53:39Z"
+    }
+  ],
+  "414": [
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 963,
+      "time": "2024-08-08T14:53:44Z"
+    },
+    {
+      "measurement": "Temps_SCC_in",
+      "field": "value",
+      "value": 976,
+      "time": "2024-08-08T14:53:44Z"
+    }
+  ],
+  "415": [
+    {
+      "measurement": "Temps_SCC_in",
+      "field": "value",
+      "value": 910,
+      "time": "2024-08-08T14:53:39Z"
+    },
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 985,
+      "time": "2024-08-08T14:53:39Z"
+    }
+  ],
+  "433": [
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 999,
+      "time": "2024-08-08T14:53:50Z"
+    },
+    {
+      "measurement": "Mode",
+      "field": "value",
+      "value": 3,
+      "time": "2024-08-08T14:53:50Z"
+    },
+    {
+      "measurement": "Temps_SCC_in",
+      "field": "value",
+      "value": 948,
+      "time": "2024-08-08T14:53:50Z"
+    }
+  ],
+  "50054": [
+    {
+      "measurement": "Temps_SCC_in",
+      "field": "value",
+      "value": 974,
+      "time": "2024-08-08T14:53:51Z"
+    },
+    {
+      "measurement": "Temps_PCC",
+      "field": "value",
+      "value": 1045,
+      "time": "2024-08-08T14:53:51Z"
+    },
+    {
+      "measurement": "Sideair",
+      "field": "value",
+      "value": 45,
+      "time": "2024-08-08T14:53:51Z"
+    }
+  ]
+}
